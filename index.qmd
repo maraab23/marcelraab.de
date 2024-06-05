@@ -107,7 +107,7 @@ Together with Emanuela Struffolino I teach introductory and advanced workshops o
 ::: {.card}
 <a href="publications/Liao2022/liao2022.html" class="card-link">
 <div>
-<img src="/images/SSR.jpg" align="right" width="20%"  style="padding: 5px; padding-top: 25px;">
+<img src="/images/SSR.jpg" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
 
 ### Sequence analysis: its past, present, and future
 *Tim F.Liao, Danilo Bolano, Christian Brzinsky-Fay, Benjamin Cornwell, Anette E. Fasang, Satu Helske, Raffaella Piccarreta, Marcel Raab, Gilbert Ritschard, Emanuela Struffolino, Matthias Studer*
@@ -120,7 +120,7 @@ The paper provides a thorough review of the methodological developments in SA an
 ::: {.card}
 <a href="publications/Schulz2023/schulz2023.html" class="card-link">
 <div>
-<img src="/images/JMF.jpg" align="right" width="20%"  style="padding: 5px; padding-top: 25px;">
+<img src="/images/JMF.jpg" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
 
 ### When the last child moves out: Continuity and convergence in spouses' housework time
 *Florian Schulz & Marcel Raab*
@@ -133,7 +133,7 @@ The paper examines how mothers' and fathers' time allocation for routine housewo
 ::: {.card}
 <a href="publications/Raab2023/raab2023.html" class="card-link">
 <div>
-<img src="https://sa-book.github.io/images/QASS.png" align="right" width="20%"  style="padding: 5px; padding-top: 25px;">
+<img src="https://sa-book.github.io/images/QASS.png" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
 
 ### Sequence Analysis
 *Marcel Raab & Emanuela Struffolino*
