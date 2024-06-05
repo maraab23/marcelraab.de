@@ -1,0 +1,83 @@
+---
+title: "GlobalIndex: A Sociological Approach to Globalization Measurement"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+  - name: "Michael Ruland"
+  - name: "Benno Schönberger"
+  - name: "Hans-Peter Blossfeld"
+  - name: "Dirk Hofäcker"
+  - name: "Sandra Buchholz"
+  - name: "Paul Schmelzer"
+year: "2008"
+date: "2008"
+date-format: "YYYY"
+publication: "International Sociology"
+doi: "10.1177/0268580908090729"
+categories:
+  - Article
+bibliography: raab2008.bib
+csl: ../apa.csl
+nocite: | 
+  @raab2008
+
+---
+
+![Figure 1 from the article](raab2008.png)
+
+## Abstract
+
+This article suggests a multidimensional globalization measure, encompassing economic, (socio)technological, cultural and political dimensions of global change. This measure builds on previous work by Dreher, Lockwood and Redoano, the OECD and Kearney, but extends it by additional dimensions and indicators that represent central facets of a genuine sociological concept of globalization. The article first describes in detail the multidimensional nature of the globalization process and then develops an overall sociological index of globalization, which the authors call GlobalIndex. This index covers the development of globalization in 97 different countries from 1970 to 2002. Using the GlobalIndex, the authors describe the development of globalization on a worldwide scale as well as for different country contexts. Finally, they include the GlobalIndex as an explanatory variable in two micro-level longitudinal analyses of labour market transitions during the early career period in Germany and the UK.
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1177/0268580908090729" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.1177/0268580908090729"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+

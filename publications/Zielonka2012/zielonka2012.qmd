@@ -1,0 +1,32 @@
+---
+title: "NEPS Data Manual. Curricular Reform Study in Thuringia (TH). SUF Version 1.0.0"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "Markus Zielonka"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+year: "2012"
+date: "2012"
+date-format: "YYYY"
+publication: "National Eucation Panel Study Data Center (NEPS) Documentation, University of Bamberg"
+categories:
+  - Manual
+bibliography: zielonka2012.bib
+csl: ../apa.csl
+nocite: | 
+  @zielonka2012
+
+---
+
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+

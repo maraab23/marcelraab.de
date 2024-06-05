@@ -1,0 +1,80 @@
+---
+title: "Destination as a Process: Sibling Similarity in Early Socioeconomic Trajectories"
+title-block-banner: true
+toc: false
+author:
+  - name: "Aleksi Karhula"
+  - name: "Jani Erola"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+  - name: "Anette Fasang"
+year: "2019"
+date: "2019"
+date-format: "YYYY"
+publication: "Advances in Life Course Research"
+doi: "10.1016/j.alcr.2019.04.015"
+categories:
+  - Article
+bibliography: karhula2019.bib
+csl: ../apa.csl
+nocite: | 
+  @karhula2019
+
+---
+
+![Figure 4 from the article](karhula2019.png)
+
+
+## Abstract
+
+This paper proposes a process-oriented, life course perspective on intergenerational mobility by comparing the early socioeconomic trajectories of siblings to those of unrelated persons. Based on rich Finnish register data (N = 21,744), the findings show that social origin affects not only final outcomes at given points in the life course but also longitudinal socioeconomic trajectories from ages 17 to 35 in early adulthood. We contribute to previous literature in three ways. First, we show that there is a pronounced similarity in the early socioeconomic trajectories of siblings. This similarity is stronger for same-sex siblings and stronger for brothers than for sisters. Second, we show that sibling similarity in full trajectories cannot be reduced to similarity in outcomes, i.e., siblings are not only more similar in the  final outcomes that they obtain but also in the pathways that lead them to these outcomes. Third, our findings support that sibling similarity follows a U-shaped pattern by social class, i.e., similarity is especially strong in disadvantaged trajectories, weak among middle-class young adults, and increases again within the most advantaged trajectories. We conclude that measures of social mobility that concentrate on final outcomes are at risk of underestimating the association between social origin and destination because social inequalities are formed across the life course, not just at the end of specific life phases.
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1016/j.alcr.2019.04.015" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.1016/j.alcr.2019.04.015"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+

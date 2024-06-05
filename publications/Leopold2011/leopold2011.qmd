@@ -1,0 +1,76 @@
+---
+title: "Short-Term Reciprocity in Late Parent-Child Relationships"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "Thomas Leopold"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+year: "2011"
+date: "2011"
+date-format: "YYYY"
+publication: "Journal of Marriage and Family"
+doi: "10.1111/j.1741-3737.2010.00792.x"
+categories:
+  - Article
+bibliography: leopold2011.bib
+csl: ../apa.csl
+nocite: | 
+  @leopold2011
+
+---
+
+## Abstract
+
+Long-term concepts of parent-child reciprocity assume that the amount of support given and received is only balanced in a generalized fashion over the life course. We argue that reciprocity in parent-child relationships also operates in the short term. Our analysis of short-term reciprocity focuses on concurrent exchange in its main upward and downward currencies, time and money. Fixed-effects models with data from SHARE (N = 8,816 dyads) revealed that within a family, parents gave financial transfers to those children who supported them with time transfers of help and care. Reciprocal patterns emerged most clearly if parents were highly dependent, received intense support, and had sufficient financial opportunities to reciprocate. We conclude that short-term reciprocity eases the burden of late parent-child relationships.
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1111/j.1741-3737.2010.00792.x" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.1111/j.1741-3737.2010.00792.x"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+

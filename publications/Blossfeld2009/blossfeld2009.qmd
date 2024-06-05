@@ -1,0 +1,74 @@
+---
+title: "Globalisierungsprozesse in modernen Gesellschaften"
+title-block-banner: true
+toc: false
+type: "Chapter"
+author:
+  - name: "Hans-Peter Blossfeld"
+  - name: "Dirk Hofäcker"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+  - name: "Michael Ruland"
+  - name: "Sandra Buchholz"
+year: "2009"
+date: "2009"
+date-format: "YYYY"
+publication: "International vergleichende Sozialforschung"
+doi: "10.1007/978-3-531-91473-2_2"
+categories:
+  - Chapter
+bibliography: blossfeld2009.bib
+csl: ../apa.csl
+nocite: | 
+  @blossfeld2009
+---
+  
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+
+```{=html}
+  <style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1007/978-3-531-91473-2_2" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.1007/978-3-531-91473-2_2"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+  ```
+  

@@ -1,0 +1,33 @@
+---
+title: "NEPS Data Manual. Starting Cohort 6: Adult Education and Lifelong Learning"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "Thomas Leopold"
+  - name: "Jan Skopek"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+year: "2011"
+date: "2011"
+date-format: "YYYY"
+publication: "National Eucation Panel Study Data Center (NEPS) Documentation, University of Bamberg"
+categories:
+  - Manual
+bibliography: leopold2011a.bib
+csl: ../apa.csl
+nocite: | 
+  @leopold2011a
+
+---
+
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+

@@ -1,0 +1,100 @@
+---
+title: "Beyond Transmission: Intergenerational Patterns of Family Formation 
+  Among Middle-Class American Families"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "Anette Fasang"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+year: "2014"
+date: "2014"
+date-format: "YYYY"
+publication: "Demography"
+doi: "10.1007/s13524-014-0322-9"
+categories:
+  - Article
+bibliography: fasang2014.bib
+csl: ../apa.csl
+nocite: | 
+  @fasang2014
+
+---
+
+![Figure 3 from the article](fasang2014.png)
+
+
+## Abstract
+
+Research about parental effects on family behavior focuses on 
+intergenerational transmission: that is, whether children show the same family 
+behavior as their parents. This focus potentially overemphasizes similarity 
+and obscures heterogeneity in parental effects on family behavior. In this 
+study, we make two contributions. First, instead of focusing on isolated focal 
+events, we conceptualize parents' and their children's family formation 
+holistically as the process of union formation and childbearing between ages 
+15 and 40. We then discuss mechanisms likely to shape these intergenerational 
+patterns. Second, beyond estimating average transmission effects, we 
+innovatively apply multichannel sequence analysis to dyadic sequence data on 
+middle-class American families from the Longitudinal Study of Generations 
+(LSOG; N = 461 parent-child dyads). The results show three salient 
+intergenerational family formation patterns among this population: a strong 
+transmission, a moderated transmission, and an intergenerational contrast 
+pattern. We examine what determines parents' and children's likelihood to 
+sort into a specific intergenerational pattern. For middle-class American 
+families, educational upward mobility is a strong predictor of moderated 
+intergenerational transmission, whereas close emotional bonds between parents 
+and children foster strong intergenerational transmission. We conclude that 
+intergenerational patterns of family formation are generated at the 
+intersection of macro-structural change and family internal psychological 
+dynamics.
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1007/s13524-014-0322-9" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.1007/s13524-014-0322-9"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+

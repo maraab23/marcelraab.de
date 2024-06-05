@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Marcel Raab"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#publications
+        text: Publications
+    right:
+      - text: "{{< ai orcid >}}"
+        href: http://orcid.org/0000-0002-3097-1591 
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=y2gQ3DUAAAAJ
+      - icon: github
+        href: https://github.com/maraab23/ 
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

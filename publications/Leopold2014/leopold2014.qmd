@@ -1,0 +1,79 @@
+---
+title: "Short-Term Reciprocity in Late Parent-Child Relationships"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "Thomas Leopold"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+  - name: "Henriette Engelhardt"
+year: "2014"
+date: "2014"
+date-format: "YYYY"
+publication: "Journal of Marriage and Family"
+doi: "10.1111/jomf.12099"
+categories:
+  - Article
+bibliography: leopold2014.bib
+csl: ../apa.csl
+nocite: | 
+  @leopold2014
+
+---
+
+![Figure 2 from the article](leopold2014.jpg)
+
+## Abstract
+
+This research traced the process of caregiver selection among adult children longitudinally, investigating how transitions to parent care were influenced by previous constellations of caregiving costs and commitments within sibling groups. The authors used data from 6 waves (1998-2008) of the Health and Retirement Study, selecting a sample of families (N=641 parents comprising N=2,452 parent-child dyads) in which they observed at least 1 adult child becoming a caregiver to a previously self-sufficient parent. Among cost-related factors, this transition was predicted primarily by between-sibling differences in previous geographical distances to the parent and, to a lesser extent, competing demands in work and family spheres. The indicators for caregiving commitments showed the importance of reciprocity, path dependency, and parental expectations as motivational forces affecting the process of caregiver selection among adult children. Gender effects revealed the primacy of the mother-daughter tie, as daughters were overrepresented only in transitions to mother care.
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1111/jomf.12099" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.1111/jomf.12099"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+

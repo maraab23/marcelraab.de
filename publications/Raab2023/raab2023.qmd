@@ -1,0 +1,42 @@
+---
+title: "Sequence analysis"
+title-block-banner: true
+toc: false
+type: "Book"
+author:
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+  - name: "Emanuela Struffolino"
+year: "2023"
+date: "2023"
+date-format: "YYYY"
+publication: "Sage - Quantitative Applications in the Social Sciences"
+categories:
+  - Book
+bibliography: raab2023.bib
+csl: ../apa.csl
+nocite: | 
+  @raab2023
+
+---
+
+![Cover page](raab2023.png)
+
+## Abstract
+
+Sequence analysis (SA) was developed to study social processes that unfold over time as sequences of events. It has gained increasing attention as the availability of longitudinal data made it possible to address sequence-oriented questions. This volume introduces the basics of SA to guide practitioners and support instructors through the basic workflow of sequence analysis. In addition to the basics, this book outlines recent advances and innovations in SA.
+
+ The presentation of statistical, substantive, and theoretical foundations is enriched by examples to help the reader understand the repercussions of specific analytical choices. The extensive ancillary material supports self-learning based on real-world survey data and research questions from the field of life course research.
+
+Data and code and a variety of additional resources to enrich the use of this book are available on an accompanying website at [https://sa-book.github.io](https://sa-book.github.io)
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+

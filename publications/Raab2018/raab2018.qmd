@@ -1,0 +1,79 @@
+---
+title: "Pathways to death: The co-occurrence of physical and mental health in the last years of life"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+  - name: "Anette Fasang"
+  - name: "Moritz Hess"  
+year: "2018"
+date: "2018"
+date-format: "YYYY"
+publication: "Demographic Research"
+doi: "10.4054/DemRes.2018.38.53"
+categories:
+  - Article
+bibliography: raab2018.bib
+csl: ../apa.csl
+nocite: | 
+  @raab2018
+
+---
+
+![Figure 1 from the article](raab2018.png)
+
+
+## Abstract
+
+**BACKGROUND** Physical and mental health are important markers of quality of life. Little is known about how they unfold in tandem in the last years of life.<br/>  **OBJECTIVE** We take a life-course perspective to identify typical joint trajectories of functional limitations and depression in the last eight years before death. Our objective is to assess whether there is only a linear association between functional limitations and depression or if we also find groups marked by high and increasing functional limitations but low depression, and vice versa.<br/>  **METHODS** Data from 10 waves of the Health and Retirement Study that cover US Americans who died between 2003-2014 are analyzed with sequence, cluster, and multinomial logistic regression methods.<br/>  **RESULTS** Results show five typical trajectories of joint functional limitations and depression. Corroborating previous findings, three groups support a linear positive relationship between functional limitations and depression. Beyond previous research, we find two resilient groups of medium and high functional limitations combined with stable low depression. The five groups are highly stratified by social status, gender, marital status, and subjective life expectancy reported at the beginning of the trajectories.<br/>  **CONCLUSION** Physical and mental health trajectories at the end of life are not only linearly associated. Medium and high functional limitations go along with a polarized pattern of either stable high or stable low depression.<br/>**CONTRIBUTION** The nonlinear relationship between functional limitations and depression in the last years of life represented by the 'Resilient' groups of medium and high functional limitations with low depression have gone largely unnoticed in previous research and should be investigated in future studies."
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.4054/DemRes.2018.38.53" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.4054/DemRes.2018.38.53"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+

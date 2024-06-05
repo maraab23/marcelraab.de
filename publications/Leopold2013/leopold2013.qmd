@@ -1,0 +1,78 @@
+---
+title: "The temporal structure of intergenerational exchange: A within-family analysis of parent-child reciprocity"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "Thomas Leopold"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+year: "2013"
+date: "2013"
+date-format: "YYYY"
+publication: "Journal of Aging Studies"
+doi: "10.1016/j.jaging.2013.05.001"
+categories:
+  - Article
+bibliography: leopold2013.bib
+csl: ../apa.csl
+nocite: | 
+  @leopold2013
+
+---
+
+![Figure 1 from the article](leopold2013.jpg)
+
+## Abstract
+
+Previous studies of parent-child reciprocity have focused either on the long term (generalized exchange over the life course) or on the short term (concurrent exchange in later life). The purpose of this research was to investigate the linkage between both temporal patterns of reciprocity within an integrative conceptual framework. We assessed whether long-term and short-term reciprocity operated as interdependent mechanisms that initially selected and subsequently relieved intergenerational caregiving relationships. We used data from the Asset and Health Dynamics Among the Oldest Old study (AHEAD) provided by frail, single-living parents of at least two children (N = 1010 respondents comprising 3768 parent-child dyads). Fixed-effects conditional logit models estimated between-sibling differences in assistance provided to parents, measured by instrumental help (i.e., assistance with IADLs) and hands-on care (i.e., assistance with ADLs). Key predictors were two measures of financial transfers given to children referring to longer and shorter recall periods. Receiving earlier and current financial transfers increased adult children's propensity to support their parents in later life. The effect of earlier transfers pertained to help rather than care whereas the reverse was true for the effect of current transfers. We found no evidence for a linkage between long-term and short-term reciprocity. Overall, the results indicate that adult children might balance long-term support accounts relative to their siblings, suggesting an intra-generational orientation on equity.
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1016/j.jaging.2013.05.001" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.1016/j.jaging.2013.05.001"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+

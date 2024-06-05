@@ -1,0 +1,82 @@
+---
+title: "GlobalIndex - Ein soziologischer Ansatz zur Messung von Globalisierung"
+title-block-banner: true
+toc: false
+type: "Chapter"
+author:
+  - name: "Michael Ruland"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+  - name: "Benno Schönberger"
+  - name: "Hans-Peter Blossfeld"
+  - name: "Dirk Hofäcker"
+  - name: "Sandra Buchholz"
+  - name: "Paul Schmelzer"
+year: "2009"
+date: "2009"
+date-format: "YYYY"
+publication: "Umfrageforschung. Herausforderungen und Grenzen"
+doi: "10.1007/978-3-531-91852-5_19"
+categories:
+  - Chapter
+bibliography: ruland2009.bib
+csl: ../apa.csl
+nocite: | 
+  @ruland2009
+
+---
+
+
+## Abstract
+
+Globalization definitely has been one of the most discussed issues in social sciences during the last decade, and still is today. Despite this grown interest, the measurement of globalization still remains vague or often one-sidedly restricted to the analysis of its economic dimension, thereby neglecting the multidimensionality of the phenomenon of globalization. As a consequence, a differentiated measure of globalization covering both economic and social aspects that can be, for example, introduced into multivariate analysis of survey data as an explanatory variable, is still largely missing. In this article, we suggest a multi-dimensional globalization measure, encompassing economic, (socio-)technological, cultural, and political dimensions of global change. It builds on previous globalization measures, but extends them by additional dimensions and indicators representing central facets of a genuine sociological concept of globalization. Our contribution starts by shortly describing the multidimensional nature of the globalization process and then develops an overall sociological index of globalization, which we call Global- Index, covering a total of 97 different countries from 1970 to 2002. Based on this measure, we first describe the development of globalization on a worldwide scale and across economic regions. Next, we demonstrate the potential of the GlobalIndex for the analysis of contemporary survey data by illustratively including it into two micro-level longitudinal analyses of labor market transitions during the early career in Germany and the United Kingdom.
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1007/978-3-531-91852-5_19" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.1007/978-3-531-91852-5_19"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+
