@@ -4,6 +4,12 @@ project:
 
 website:
   title: "Marcel Raab"
+  site-url: https://marcelraab.de
+  description: "Marcel Raab's personal website"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@RaabM"
   navbar:
     pinned: true
     left:
