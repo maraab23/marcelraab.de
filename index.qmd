@@ -21,7 +21,7 @@ about:
 
 :::{#about-content}
 
-I am Senior Researcher at the State Institute for Family Research at the University of Bamberg and Deputy Managing Director of the [Journal of Family Research](https://ubp.uni-bamberg.de/jfr/index.php/jfr).
+I am senior researcher at the State Institute for Family Research at the University of Bamberg, deputy managing director and co-editor of the [Journal of Family Research](https://ubp.uni-bamberg.de/jfr/index.php/jfr).
 
 Previously, I worked as research assistant at the National Educational Panel Study and the Professorship of Demography at the University of Bamberg, as research fellow in the research group Demography and Inequality at the WZB Berlin Social Science Center, and Assistant Professor for Sociology in the Department of Sociology at the University of Mannheim. In 2011 I was a visiting pre-doctoral fellow at the Center for Research on Inequalities and the Life Course (CIQLE) at Yale University, New Haven. In 2014, I completed my PhD ("Family Effects on Family Formation") at the University of Bamberg.
 
@@ -65,8 +65,8 @@ Companion website for the little green QASS book on ‘Sequence Analysis’ by M
 <div>
 <img src="https://github.com/maraab23/ggseqplot/raw/main/man/figures/logo.png" align="right" width="20%"  style="padding: 5px; padding-top: 25px;">
 
-### ggseqplot - ggplotify sequence data plots
-This library (available on CRAN) provides functions to render sequence plots using `ggplot2` instead of base R’s plot function which is used `TraMineR::seqplot`
+### ggseqplot - {{< fa brands r-project>}} package
+This library (available on CRAN) provides functions to render sequence plots using `{ggplot2}` instead of base R’s plot function which is used `TraMineR::seqplot`
 
 <a href="https://maraab23.github.io/ggseqplot/" class="btn btn-primary"><i class="fa-solid fa-link"></i>&nbsp;&nbsp;ggseqplot website</a>
 
@@ -76,7 +76,7 @@ This library (available on CRAN) provides functions to render sequence plots usi
 ::: {.card}
 
 ### seqquality - Sequence Quality Index
-A little R function available via GitHub which computes a generalized version of the sequence quality index proposed by Manzoni and Mooi-Reci (2018).
+A little {{< fa brands r-project>}} function available via {{< fa brands github>}} which computes a generalized version of the sequence quality index proposed by Manzoni and Mooi-Reci (2018).
 
 [{{< fa brands github>}}&nbsp;&nbsp;seqquality](https://github.com/maraab23/seqquality){.btn .btn-primary}
 :::

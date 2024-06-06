@@ -6,6 +6,7 @@ website:
   title: "Marcel Raab"
   site-url: https://marcelraab.de
   description: "Marcel Raab's personal website"
+  image: "/images/Raab.png"
   favicon: images/favicon.png
   open-graph:
     locale: en_US
