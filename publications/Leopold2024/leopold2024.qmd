@@ -1,0 +1,87 @@
+---
+title: "KINMATRIX: A new data resource for studies of families and kinship"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "Thomas Leopold"
+  - name: "Charlotte Clara Becker"
+  - name: "Zafer Büyükkeçeci"
+  - name: "Beyda Çineli"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+year: "2024"
+date: "2024"
+date-format: "YYYY"
+publication: "Demographic Research"
+doi: "10.4054/DemRes.2024.51.25"
+categories:
+  - Article
+bibliography: leopold2024.bib
+csl: ../apa.csl
+nocite: | 
+  @leopold2024
+
+---
+
+![](leopold2024.png)
+
+## Abstract
+
+**Background:** How cohesive are families and how do they respond to their members’ needs? How do families transmit advantages and disadvantages within and across generations? Current data confine our answers to these questions to solidarity and transmission in the immediate family, overlooking other relatives who play a significant role in socialization, social integration, social support, and the reproduction of social status and inequality.<br/>
+
+**Objective:** This article presents the KINMATRIX project, a novel comparative survey that collected extensive data on a wide array of family members, moving beyond the traditional focus on the immediate family.<br/>  
+
+**Methods**  The KINMATRIX data map out families as ego-centric networks of younger adults aged 25 to 35, including their parents, grandparents, siblings, aunts, uncles, cousins, and step- or half-relatives. The data prepared for scientific use include N = 12,438 egos (anchor-respondents) and N = 252,278 alters (anchor–kin dyads) in 10 countries (Denmark, Finland, Germany, Italy, Netherlands, Norway, Poland, Sweden, United Kingdom, United States).<br/>
+
+**Contribution** KINMATRIX contributes to research infrastructure by offering detailed relational and attribute data collected on family networks, covering a wide range of relatives and diverse family forms. These data reflect the complexity of contemporary families and add to our understanding of key family processes, such as solidarity and transmission. The broad scope supports comparative analyses across European societies and beyond.
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.4054/DemRes.2024.51.25" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.4054/DemRes.2024.51.25"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+
