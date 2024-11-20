@@ -33,9 +33,9 @@ nocite: |
 
 **Objective:** This article presents the KINMATRIX project, a novel comparative survey that collected extensive data on a wide array of family members, moving beyond the traditional focus on the immediate family.<br/>  
 
-**Methods**  The KINMATRIX data map out families as ego-centric networks of younger adults aged 25 to 35, including their parents, grandparents, siblings, aunts, uncles, cousins, and step- or half-relatives. The data prepared for scientific use include N = 12,438 egos (anchor-respondents) and N = 252,278 alters (anchor–kin dyads) in 10 countries (Denmark, Finland, Germany, Italy, Netherlands, Norway, Poland, Sweden, United Kingdom, United States).<br/>
+**Methods:**  The KINMATRIX data map out families as ego-centric networks of younger adults aged 25 to 35, including their parents, grandparents, siblings, aunts, uncles, cousins, and step- or half-relatives. The data prepared for scientific use include N = 12,438 egos (anchor-respondents) and N = 252,278 alters (anchor–kin dyads) in 10 countries (Denmark, Finland, Germany, Italy, Netherlands, Norway, Poland, Sweden, United Kingdom, United States).<br/>
 
-**Contribution** KINMATRIX contributes to research infrastructure by offering detailed relational and attribute data collected on family networks, covering a wide range of relatives and diverse family forms. These data reflect the complexity of contemporary families and add to our understanding of key family processes, such as solidarity and transmission. The broad scope supports comparative analyses across European societies and beyond.
+**Contribution:** KINMATRIX contributes to research infrastructure by offering detailed relational and attribute data collected on family networks, covering a wide range of relatives and diverse family forms. These data reflect the complexity of contemporary families and add to our understanding of key family processes, such as solidarity and transmission. The broad scope supports comparative analyses across European societies and beyond.
 
 ::: {.callout-note}
 ## Citation

@@ -1,0 +1,85 @@
+---
+title: "Couples’ Money Arrangements in Germany: Visualizing Cohort, Age Group, and Partnership Type Variations"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+  - name: "Florian Schulz"
+year: "2024"
+date: "2024"
+date-format: "YYYY"
+publication: "Socius"
+doi: "10.1177/23780231241301458"
+categories:
+  - Article
+bibliography: raab2024.bib
+csl: ../apa.csl
+nocite: | 
+  @raab2024
+
+---
+
+![Figure from the article with added annotations](raab2024.png){.lightbox}
+
+## Abstract
+
+This visualization illustrates patterns of income pooling among German couples using longitudinal data from the German Family Panel (pairfam), examining variations across cohorts born in the 1970s, 1980s, and 1990s and among different partnership types. The findings reveal that marriage is much more strongly associated with income pooling than cohabitation or living-apart-together arrangements. A generational shift is evident: Younger cohorts are less likely to pool finances, even within marriage. The visualization suggests increasing financial independence in intimate relationships over cohorts, reflecting broader societal shifts toward individualism.
+
+<br>
+
+**{{< fa brands github>}} GitHub repository** with replication material and high-resolution plot available 
+[here](https://github.com/maraab23/CoupleMoney). 
+
+<br>
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1177/23780231241301458" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.1177/23780231241301458"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+

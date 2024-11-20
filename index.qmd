@@ -105,6 +105,20 @@ Together with Emanuela Struffolino I teach introductory and advanced workshops o
 :::: {.column width="70%"}
 
 ::: {.card}
+<a href="publications/Raab2024/Raab2024.html" class="card-link">
+<div>
+<img src="/images/Socius.jpg" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
+
+### Couples’ Money Arrangements in Germany: Visualizing Cohort, Age Group, and Partnership Type Variations
+*Marcel Raab & Florian Schulz*
+
+A data visualization of couples' money arrangements using data from the German Family Panel.  
+</div>
+</a>
+:::
+
+
+::: {.card}
 <a href="publications/Leopold2024/leopold2024.html" class="card-link">
 <div>
 <img src="/images/DR.png" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
