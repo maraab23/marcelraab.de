@@ -13,8 +13,8 @@ about:
       href: https://scholar.google.com/citations?user=y2gQ3DUAAAAJ
     - text: "{{< fa brands orcid>}} ORCID"
       href: http://orcid.org/0000-0002-3097-1591
-    - text: "{{< fa brands twitter>}} Twitter"
-      href: https://twitter.com/RaabM
+    - text: "{{< fa brands bluesky>}} Bluesky"
+      href: https://bsky.app/profile/raabm.bsky.social
     - text: "{{< fa brands github>}} GitHub"
       href: https://github.com/maraab23 
 ---
