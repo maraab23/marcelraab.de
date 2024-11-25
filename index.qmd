@@ -105,6 +105,20 @@ Together with Emanuela Struffolino I teach introductory and advanced workshops o
 :::: {.column width="70%"}
 
 ::: {.card}
+<a href="publications/Leopold2024a/Leopold2024a.html" class="card-link">
+<div>
+<img src="/images/JMF.jpg" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
+
+### Mapping modern kinship networks: First results from the KINMATRIX survey
+*Thomas Leopold, Marcel Raab, Charlotte Clara Becker, Zafer Büyükkeçeci, Beyda Çineli*
+
+This study presents initial results from the KINMATRIX survey, a large-scale source of ego-centric network data offering an unprecedented level of scope and detail in mapping family relationships.
+</div>
+</a>
+:::
+
+
+::: {.card}
 <a href="publications/Raab2024/raab2024.html" class="card-link">
 <div>
 <img src="/images/Socius.jpg" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">

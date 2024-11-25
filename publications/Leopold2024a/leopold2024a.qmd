@@ -1,0 +1,89 @@
+---
+title: "Mapping modern kinship networks: First results from the KINMATRIX survey"
+title-block-banner: true
+toc: false
+type: "Article"
+author:
+  - name: "Thomas Leopold"
+  - name: "<strong>Marcel Raab</strong>"
+    orcid: 0000-0002-3097-1591
+    email: marcel.raab@ifb.uni-bamberg.de
+  - name: "Charlotte Clara Becker"
+  - name: "Zafer Büyükkeçeci"
+  - name: "Beyda Çineli"
+year: "2024"
+date: "2024"
+date-format: "YYYY"
+publication: "Journal of Marriage and Family"
+doi: "10.1111/jomf.13049"
+categories:
+  - Article
+bibliography: leopold2024a.bib
+csl: ../apa.csl
+nocite: | 
+  @leopold2024a
+
+---
+
+![Figure 2 from the article](leopold2024a.png){.lightbox}
+
+## Abstract
+
+**Objective** This study presents initial results from the KINMATRIX survey, a large-scale source of ego-centric network data offering an unprecedented level of scope and detail in mapping family relationships.<br/>  
+
+**Background** Research on kinship networks is limited by the scarcity of available data. As a result, key phenomena remain insufficiently understood, including the importance of extended kin, contrasts between kinship lines, and cross-national differences. Notably, extended kin provide a unique “strength in numbers” that can enhance social transmission, integration, and support.<br/>  
+
+**Method** We analyzed data from anchor respondents aged 25–35 (N = 11,788 anchors; 239,220 anchor-kin dyads) collected in seven Western countries (Germany, Italy, Netherlands, Poland, Sweden, United Kingdom, and United States). Kinship networks included a large array of nuclear, extended, and complex kin (on average, 20 kin per anchor). We used descriptive methods to examine retrospective, current, and prospective assessments of kin ties across four measures: importance, closeness, contact, and support. <br/>  
+
+**Results** We report three main findings: First, extended kin are central to younger adults' lives, representing at least half of the family members they are emotionally close to, regularly contact, and deem important. Second, kinship networks are matrilineally tilted. Maternal kin are emotionally closer, more frequently contacted, considered more important, and more supportive. Third, cross-national comparisons reveal both similarities and notable differences, with the United States and Sweden showing elevated importance of extended and complex kin and Italy exhibiting higher social integration with nuclear and extended kin.<br/>  
+
+**Conclusion** Data on kinship networks can significantly advance our understanding of key family phenomena.
+
+::: {.callout-note}
+## Citation
+
+::: {#refs}
+:::
+
+:::
+
+
+
+```{=html}
+<style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1111/jomf.13049" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="right" 
+          data-badge-type="medium-donut"
+          data-doi="10.1111/jomf.13049"   
+          data-condensed="true" 
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
+  
+```
+
