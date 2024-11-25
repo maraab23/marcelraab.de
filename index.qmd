@@ -105,7 +105,7 @@ Together with Emanuela Struffolino I teach introductory and advanced workshops o
 :::: {.column width="70%"}
 
 ::: {.card}
-<a href="publications/Leopold2024a/Leopold2024a.html" class="card-link">
+<a href="publications/Leopold2024a/leopold2024a.html" class="card-link">
 <div>
 <img src="/images/JMF.jpg" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
 
