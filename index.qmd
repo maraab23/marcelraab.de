@@ -105,6 +105,21 @@ Together with Emanuela Struffolino I teach introductory and advanced workshops o
 :::: {.column width="70%"}
 
 ::: {.card}
+<a href="publications/Schulz2024/schulz2024.html" class="card-link">
+<div>
+<img src="/images/JMF.jpg" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
+
+### Young adults' gendered trajectories of routine housework time when leaving home
+*Florian Schulz & Marcel Raab*
+
+This study examines young adult women’s and men’s time use for routine housework when moving out of the parental household.
+</div>
+</a>
+:::
+
+
+
+::: {.card}
 <a href="publications/Leopold2024a/leopold2024a.html" class="card-link">
 <div>
 <img src="/images/JMF.jpg" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
@@ -156,33 +171,6 @@ This article presents the KINMATRIX project, a novel comparative survey that col
 
 The paper provides a thorough review of the methodological developments in SA and reflections on some future directions of SA. 
 </div>
-</a>
-:::
-
-::: {.card}
-<a href="publications/Schulz2023/schulz2023.html" class="card-link">
-<div>
-<img src="/images/JMF.jpg" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
-
-### When the last child moves out: Continuity and convergence in spouses' housework time
-*Florian Schulz & Marcel Raab*
-
-The paper examines how mothers' and fathers' time allocation for routine housework changes when the last child moves out of the family household.
-</div>
-</a>
-:::
-
-::: {.card}
-<a href="publications/Raab2023/raab2023.html" class="card-link">
-<div>
-<img src="https://sa-book.github.io/images/QASS.png" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
-
-### Sequence Analysis
-*Marcel Raab & Emanuela Struffolino*
-
-The little green book on ‘Sequence Analysis’ provides a comprehensive introduction to the basics and outlines some of the recent advances and innovations in SA.
-</div>
-
 </a>
 :::
 

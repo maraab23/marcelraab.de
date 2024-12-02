@@ -25,7 +25,7 @@ nocite: |
 
 ---
 
-![](leopold2024.png)
+![](leopold2024.png){.lightbox}
 
 ## Abstract
 
